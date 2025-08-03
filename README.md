@@ -103,6 +103,7 @@ Family history (Yes/No)
 Click "Predict" to receive a result:
 “Diabetic” or “Not Diabetic”
 
+
 📈 Sample Visualizations
 feature_importance.png: Displays which features most influence prediction.
 
