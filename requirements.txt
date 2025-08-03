@@ -1,4 +1,4 @@
-Core Dependencies (Used in Your Code)
+Python packages and dependencies.
 
 1. pandas
 Version: >=1.3.0
@@ -76,5 +76,6 @@ Purpose: Create the desktop user interface (GUI).
 Used in:
 
 Building a form for user input (entries for glucose, BMI, etc.)
+
 
 Displaying results using messagebox
